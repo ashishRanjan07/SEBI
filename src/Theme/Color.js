@@ -1,0 +1,25 @@
+const Color = {
+    Primary:'#516593',
+    Secondary:'#F0F3F9',
+    Tertiary:'#101452',
+    Black:'#222222',
+    MediumGrey:'#949191',
+    Grey:'#666666',
+    LightGrey:'#C4C4C4',
+    White:'#FFFEFE',
+    CrimsonRed:'#D9534F',
+    Green:'#42CD69',
+    searchBackground:'#d2d4d8',
+    textColor:'#424242',
+    resolved:'#6CD3FF',
+    total:'#D2A706',
+    cardImageBackground:'#F4F4F4',
+    c1:'#C5D3D1',
+    c2:'#DFDAC8',
+    c3:'#D5DEEA',
+    c4:'#D2BBBC',
+    c5:'#E6DDFF',
+    c6:'#FFF9E7',
+    descriptionBox:'#F9FAFD'
+};
+export default Color;
